@@ -47,7 +47,7 @@ export function HomePage() {
                     </Button>    
                 ) : (
                     <Button type="submit" disabled={isSubmitDisabled}>
-                        <Play size={24} /> Começar
+                        <Play size={24} /> Começar!!!!
                     </Button>    
                 )
             }
